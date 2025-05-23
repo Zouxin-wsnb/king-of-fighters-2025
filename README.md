@@ -5,7 +5,7 @@
 ### Getting the code from GitHub
 1. Clone the repository:
    ```
-   git clone https://github.com/[username]/king-of-fighters-2025.git
+   git clone https://github.com/Zouxin-wsnb/king-of-fighters-2025.git
    ```
    Or download ZIP file from the GitHub repository page.
 
@@ -71,7 +71,7 @@ This application has been tested and works well in:
 ### 从GitHub获取代码
 1. 克隆仓库：
    ```
-   git clone https://github.com/[用户名]/king-of-fighters-2025.git
+   git clone https://github.com/Zouxin-wsnb/king-of-fighters-2025.git
    ```
    或从GitHub仓库页面下载ZIP文件。
 
