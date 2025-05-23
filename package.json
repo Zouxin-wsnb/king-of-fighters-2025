@@ -1,0 +1,19 @@
+{
+  "name": "pose-detection-game",
+  "version": "1.0.0",
+  "description": "姿势识别互动应用",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server/server.js",
+    "setup": "npm install express cors"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "keywords": [
+    "p5js",
+    "pose-detection",
+    "game"
+  ]
+}
