@@ -19,8 +19,10 @@
    - Using the included HTTPS server (see below)
    - Or any other local server solution
 
+4. Please refer to the examples in the folder [images](images) for the corresponding skill actions.
+
 ### Requirements
-- Modern web browser (Chrome, Firefox, Edge)
+- Modern web browser (Chrome)
 - Webcam access
 - JavaScript enabled
 
@@ -41,8 +43,6 @@ Quick steps:
 
 This application has been tested and works well in:
 - Chrome
-- Firefox
-- Edge
 
 ### 3: Using on localhost Only (Recommended)
 
@@ -85,8 +85,10 @@ This application has been tested and works well in:
    - 使用附带的HTTPS服务器（见下文）
    - 或任何其他本地服务器解决方案
 
+4. 技能相应动作请参考文件夹 [images](images) 中的示例。
+
 ### 需求
-- 现代网页浏览器（Chrome、Firefox、Edge）
+- 现代网页浏览器（Chrome）
 - 摄像头访问权限
 - 启用JavaScript
 
@@ -107,8 +109,6 @@ This application has been tested and works well in:
 
 此应用在以下浏览器中测试良好：
 - Chrome
-- Firefox
-- Edge
 
 ### 3: 仅在localhost上使用(推荐)
 
